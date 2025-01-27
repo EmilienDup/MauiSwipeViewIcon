@@ -1,0 +1,1 @@
+# MauiSwipeViewIcon
